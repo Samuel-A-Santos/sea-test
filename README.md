@@ -11,7 +11,7 @@ Aplicativo **React + TypeScript** para gerenciamento de **EPIS e de funcionário
 
    ```bash
    git clone git@github.com:Samuel-A-Santos/crud.git
-   cd sea-test
+   cd crud
    Instale as dependências:
    npm install 
    ```
